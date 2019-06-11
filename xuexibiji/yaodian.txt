@@ -1,0 +1,40 @@
+http://idea.youbbs.org
+
+生产者：提供事件的挂载点
+生成生产者的实例。有义务实现该生产者实例的消费者实现过程。
+
+
+
+ 运行目录
+ 查询方法： ps -fe | grep datacen
+ 
+  查看日志：
+cd /data/phplog
+grep -E '900107' php.log | grep -E 'linkcall_apply_singer_nt'
+tail -f 2017-12-15.log | grep 10005127 |grep 10001   (监控日志)
+
+守护进程
+sudo supervisorctl
+start kaifa:rc_robot_d 开启
+status  查看当前进程
+
+find linux/ -type f -print0 | xargs -0 sed -i 's/\r//g'
+
+
+mysql -h localhost -u root -pabuabu2017
+mysql -h 47.93.118.164 -P 8066 -u dble -ptest123
+mysql -h 47.95.246.231 -P 3306 -u XcbbNeiCe -pXcNei,.0526
+show processlist;
+kill xxxx;
+quit;
+
+cd /data/raidcall/log/sessiond_d/
+
+
+
+
+
+
+
+
+
